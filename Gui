@@ -13374,7 +13374,7 @@ end)
 
 local Tab = Window:NewTab("Credits")
 
-local Section = Tab:New section("Owner: YellowGreg")
+local Section = Tab:NewSection("Owner: YellowGreg")
 
 local Section = Tab:NewSection("Team: YellowGreg, WspBoy12, MMSVon, vandamcruz ")
 
